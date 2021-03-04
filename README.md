@@ -7,6 +7,7 @@ Watch face developed on Galaxy Watch Disigner 2.0.0 for watches with 360x360 scr
 <p>
 <img src="Screenshot_2021-03-04.png" height="90%" width="90%"/>
 <p>
+  
 ## How to install (windows):<br/>
 1. You must enable developer mode on you watch and turn on debug mode (Settings > Galaxy Watch Info > Debugging at buttom on the scroll)<br/>
 2. Connect you'r watch to the same network with your computer via Wi-Fi. See the ip address on the watch from the Wi-Fi menu.<br/>
