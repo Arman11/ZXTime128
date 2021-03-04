@@ -16,4 +16,4 @@ Watch face developed on Galaxy Watch Disigner 2.0.0 for watches with 360x360 scr
 -- 2. sdb.exe                                 (enable sdb)<br/>
 -- 3. sdb connect 192.168.1.123               (insert you'r ip addres)<br/>
 -- 4. sdb install bin/ZX-Time-128-TW4.tpk     (or way to you *.tpk file)<br/>
-5. Done<br/>
+4. Done<br/>
