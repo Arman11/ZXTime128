@@ -19,5 +19,9 @@ Watch face developed on Galaxy Watch Disigner 2.0.0 for watches with 360x360 scr
 4. Done<br/>
 
 
----------- stn --
+
+
+
+=============================================
 http://freakified.github.io/TimeStylePebble/config_bw.html?appversion=8
+http://freakified.github.io/TimeStylePebble/config_diorite.html?appversion=8
