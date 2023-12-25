@@ -17,3 +17,7 @@ Watch face developed on Galaxy Watch Disigner 2.0.0 for watches with 360x360 scr
 -- 3. sdb connect 192.168.1.123 &nbsp;&nbsp;&nbsp;&nbsp; ***(insert you'r ip addres)*** <br/>
 -- 4. sdb install bin/ZX-Time-128-TW4.tpk &nbsp;&nbsp;&nbsp;&nbsp; ***(or way to you .tpk file)*** <br/>
 4. Done<br/>
+
+
+---------- stn --
+http://freakified.github.io/TimeStylePebble/config_bw.html?appversion=8
